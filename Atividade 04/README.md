@@ -17,7 +17,6 @@ A afirmativa está falsa. Não haverá um problema de compilação devido à var
     class Hotel { 
     quantReservas: number; 
     
-    // Construtor que aceita um parâmetro inteiro
     constructor(quantReservasInicial: number) { 
         this.quantReservas = quantReservasInicial; 
     } 
