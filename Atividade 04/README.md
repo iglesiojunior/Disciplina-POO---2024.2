@@ -2,7 +2,7 @@
 
 ### 1º) Verdadeiro ou Falso
 **Resposta:**  
-F - F - V - F - V - V - V  
+F - V - F - F - V - V - V  
 
 ---
 
