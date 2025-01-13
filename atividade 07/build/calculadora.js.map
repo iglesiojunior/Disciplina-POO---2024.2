@@ -1,0 +1,1 @@
+{"version":3,"file":"calculadora.js","sourceRoot":"","sources":["../src/calculadora.ts"],"names":[],"mappings":";;;AAAA,MAAa,WAAW;IAIpB,YAAY,KAAa,EAAE,KAAa;QACpC,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;QACnB,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACvB,CAAC;IAEM,IAAI;QACP,OAAO,IAAI,CAAC,KAAK,GAAG,IAAI,CAAC,KAAK,CAAC;IACnC,CAAC;CACJ;AAZD,kCAYC"}
